@@ -1,7 +1,7 @@
+FROM python:3.11.7-bullseye
+
 ARG work_path="API_EG"
 ENV env_work_path=$work_path
-
-FROM python:3.11.7-bullseye
 
 WORKDIR $work_path
 
