@@ -9,7 +9,7 @@ COPY . $work_path
 
 RUN apt-get update
 RUN apt-get install ca-certificates apt-transport-https libnss3
-RUN wget -nc https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+RUN wget -O $work_path/api_eg/google-chrome-stable_current_amd64.deb -nc https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 RUN ls $work_path
 RUN apt install -f $work_path/api_eg/google-chrome-stable_current_amd64.deb -y
 
