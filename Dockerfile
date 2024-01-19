@@ -15,7 +15,7 @@ RUN apt install -f ./google-chrome-stable_current_amd64.deb -y
 
 
 RUN pip install --upgrade pip
-RUN pip install -r ./requirements.txt
+RUN pip install -r ${work_path}/requirements.txt
 RUN ls $work_path
 
 EXPOSE 8000
