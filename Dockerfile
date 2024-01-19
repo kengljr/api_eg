@@ -1,5 +1,7 @@
 FROM python:3.11.7-bullseye
-RUN echo "export home_path=`echo ${HOME}`" >> /envfile
+
+RUN USER_HOME=$(eval echo ~${SUDO_USER})
+RUN echo "export home_path=`echo ${USER_HOME}`" >> /envfile
 RUN . /envfile; echo $home_path
 
 ARG work_path="API_EG"
