@@ -3,9 +3,9 @@ ENV env_work_path=$work_path
 
 FROM python:3.11.7-bullseye
 
-COPY . $work_path
-
 WORKDIR $work_path
+
+COPY . $work_path
 
 RUN apt-get update
 RUN apt-get install ca-certificates apt-transport-https libnss3
