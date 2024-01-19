@@ -1,5 +1,4 @@
 django
 djangorestframework
 selenium
-pyautogui
 webdriver-manager
