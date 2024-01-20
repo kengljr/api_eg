@@ -6,16 +6,11 @@ ARG work_path="API_EG"
 ARG user="kengljr"
 ENV HOME="/home/$user"
 ENV env_work_path=$work_path
-WORKDIR $work_path
-USER root:$user
-RUN whoami
-RUN echo $HOME
 
-#Check first THS directory Exists if not so Mkdir
-RUN mkdir -p $HOME/ths
+WORKDIR /$work_path
 
 #Copy All file in project move to Docker image folder.
-COPY ${home_path}/api_eg $HOME/ths/$work_path
+COPY ./api_eg /$work_path
 
 #Run Bash script for apt-get update
 RUN apt-get update
@@ -24,16 +19,16 @@ RUN apt-get install ca-certificates apt-transport-https libnss3
 #Get the google chrome Browser for Linux Server
 RUN wget -nc https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 RUN ls $work_path
-RUN apt install -f ${home_path}/google-chrome-stable_current_amd64.deb -y
+RUN apt install -f ${work_path}/google-chrome-stable_current_amd64.deb -y
 
 #Upgrade pip before installing the package in requirements.txt
 RUN pip install --upgrade pip
-RUN pip install -r ${home_path}/requirements.txt
+RUN pip install -r ${work_path}/requirements.txt
 RUN ls $work_path
 
 EXPOSE 8000
 
 ENV TZ="Asia/Bangkok"
 
-ENTRYPOINT ["python",${home_path}/${env_work_path}/manage.py,"runserver","0:8000"]
+ENTRYPOINT ["python",${env_work_path}/manage.py,"runserver","0:8000"]
 
