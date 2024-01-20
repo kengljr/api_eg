@@ -25,11 +25,11 @@ RUN apt install -f /${work_path}/google-chrome-stable_current_amd64.deb -y
 #Upgrade pip before installing the package in requirements.txt
 RUN pip install --upgrade pip
 RUN pip install -r /${work_path}/requirements.txt
-RUN ls $work_path
+RUN ls /$work_path
 
 EXPOSE 8000
 
 ENV TZ="Asia/Bangkok"
 
-ENTRYPOINT ["python",${env_work_path}/manage.py,"runserver","0:8000"]
+ENTRYPOINT ["python",/${env_work_path}/manage.py,"runserver","0:8000"]
 
