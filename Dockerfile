@@ -10,7 +10,7 @@ ENV env_work_path=$work_path
 WORKDIR /$work_path
 
 #Copy All file in project move to Docker image folder.
-COPY ./api_eg /$work_path
+COPY $HOME/Gitlab/api_eg /$work_path
 
 #Run Bash script for apt-get update
 RUN apt-get update
