@@ -7,7 +7,7 @@ ARG user="kengljr"
 ENV HOME="/home/$user"
 ENV env_work_path=$work_path
 WORKDIR $work_path
-USER $user
+USER root:$user
 RUN whoami
 RUN echo $HOME
 
