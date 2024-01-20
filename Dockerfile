@@ -11,7 +11,7 @@ WORKDIR /$work_path
 
 #Copy All file in project move to Docker image folder.
 COPY . /$work_path
-RUN ls ${work_path}
+RUN ls /${work_path}
 
 #Run Bash script for apt-get update
 RUN apt-get update
@@ -19,7 +19,7 @@ RUN apt-get install ca-certificates apt-transport-https libnss3
 
 #Get the google chrome Browser for Linux Server
 RUN wget -nc https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-RUN ls $work_path
+RUN ls /$work_path
 RUN apt install -f ${work_path}/google-chrome-stable_current_amd64.deb -y
 
 #Upgrade pip before installing the package in requirements.txt
