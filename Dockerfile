@@ -4,7 +4,7 @@ FROM python:3.11.7-bullseye
 #Declare variable for HOME_PATH and WORK_DIR
 ARG work_path="API_EG"
 ARG user="kengljr"
-ENV HOME=echo "/home/$user"
+ENV HOME="/home/$user"
 ENV env_work_path=$work_path
 WORKDIR $work_path
 USER $user
