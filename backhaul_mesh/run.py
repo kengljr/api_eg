@@ -2,12 +2,10 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 from datetime import datetime
-
-import os
 import pickle 
 import time
 import json
-import pyautogui
+
 logforwrite=""
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-ssl-errors=yes')
@@ -17,65 +15,25 @@ driver = webdriver.Chrome(options=options)
 Username_EG="01014209"
 PassWord_EG="xxxxxxxxxx"
 
-
-
-now = datetime.now()    
-dt_string_ = now.strftime("%H")
-now_time=int(dt_string_)
-
-#while (11 <= now_time >12):
-#    now = datetime.now()    
-#    dt_string_ = now.strftime("%H")
-#    now_time=int(dt_string_)
-#    time.sleep(1)
-#    print(dt_string_)
-    
-
-
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-
-
-
 def LoginEG(_user,_password):
-    #print(_user)
-    #print(_password)
-    #path = 'D:/addwan_huawei/' #กำหนด folder ที่จะให้ระบบทำงาน
-    #os.chdir(path) #รัน Code เพื่อสั่งให้ระบบทำงานบน folder ที่ต้องการ    
-    #Old URL driver.get('http://61.90.207.93:21180/web/res/web-framework/default.html#_cpehg-general-daily-management-menu')
-    #New URL http://61.90.207.93:21180/web/iui/framework/login.html
+    #Going to login page
     driver.get('https://10.50.27.136:21180/web/iui/framework/login.html')
-    driver.find_element_by_id("details-button").click()
-    driver.find_element_by_id("proceed-link").click()
+    current_url =driver.current_url
 
-    #driver.find_element_by_id("inputUserName").send_keys(_user)
-    #driver.find_element_by_id ("inputPassword").send_keys(_password)
-    #driver.find_element_by_id("submitBtn").click()
+    #Enter Username and Password
     driver.find_element("id","inputUserName").send_keys(_user)
     driver.find_element("id","inputPassword").send_keys(_password)
     driver.find_element("id","submitBtn").click()
-    time.sleep(5)
-    pyautogui.press('enter')  # press the Enter key    
-    time.sleep(15)
-    pickle.dump(driver.get_cookies() , open("QuoraCookies.pkl","wb"))
-    #driver.find_element_by_tag_name('body').send_keys(Keys.CONTROL + 't')
-    #Old URL driver.get('http://61.90.207.93:21180/web/res/web-framework/default.html#_cpehg-general-daily-management-menu')
-    #New URL http://61.90.207.93:21180/web/iui/framework/default.html#_cpehg-general-daily-management-menu
-    driver.get('https://10.50.27.136:21180/web/iui/framework/default.html#_cpehg-general-daily-management-menu')
-    time.sleep(5)
-    source = driver.page_source
-    source =str(source)
-    int_ChkLogIn=source.find("CPE Daily Management")
-    if int_ChkLogIn > 1:
-        print("Login pass\n")
-        return('pass')
-    else:
-        print("Login fail")
-        return("fail")  
+    #Waiting for another popup for click continue
+    time.sleep(0.5)
+    driver.find_element(By.XPATH,"//div[@class='bootbox modal fade bootbox-confirm in']/div/div/div[3]/button[2]").click()
+    time.sleep(1)
 
-
-    
-
+    if( current_url != driver.current_url):
+        return True
+    else :
 
 if(LoginEG(Username_EG,PassWord_EG))=="pass":
     filename = "input.txt"
