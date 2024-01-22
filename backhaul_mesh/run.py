@@ -1,21 +1,21 @@
 from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from datetime import datetime
-import pickle 
 import time
-import json
 
-logforwrite=""
 options = webdriver.ChromeOptions()
+service = Service("/API_EG/chromedriver")
 options.add_argument('--ignore-ssl-errors=yes')
 options.add_argument('--ignore-certificate-errors')
-driver = webdriver.Chrome(options=options)
+options.add_argument("--headless=new")
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
 
 Username_EG="01014209"
 PassWord_EG="Mi^mi^12345678901"
 
-driver = webdriver.Chrome("./chromedriver")
+driver = webdriver.Chrome(service=service,options=options)
 
 def LoginEG(_user,_password):
     #Going to login page

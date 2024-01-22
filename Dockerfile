@@ -18,9 +18,9 @@ RUN apt-get install ca-certificates apt-transport-https libnss3
 RUN apt-get install nano vim -y
 
 #Get the google chrome Browser for Linux Server
-RUN wget -nc https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+RUN wget -nc http://mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-stable/google-chrome-stable_114.0.5735.90-1_amd64.deb
 RUN ls /API_EG
-RUN apt install -f /API_EG/google-chrome-stable_current_amd64.deb -y
+RUN apt install -f /API_EG/google-chrome-stable_114.0.5735.90-1_amd64.deb -y
 
 #Upgrade pip before installing the package in requirements.txt
 RUN pip install --upgrade pip
