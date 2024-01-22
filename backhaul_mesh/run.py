@@ -1,6 +1,6 @@
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 from datetime import datetime
 import pickle 
 import time
@@ -13,9 +13,9 @@ options.add_argument('--ignore-certificate-errors')
 driver = webdriver.Chrome(options=options)
 
 Username_EG="01014209"
-PassWord_EG="xxxxxxxxxx"
+PassWord_EG="Mi^mi^12345678901"
 
-driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome("./chromedriver")
 
 def LoginEG(_user,_password):
     #Going to login page

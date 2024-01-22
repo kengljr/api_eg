@@ -15,6 +15,7 @@ RUN pwd
 #Run Bash script for apt-get update
 RUN apt-get update
 RUN apt-get install ca-certificates apt-transport-https libnss3
+RUN apt-get nano
 
 #Get the google chrome Browser for Linux Server
 RUN wget -nc https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
