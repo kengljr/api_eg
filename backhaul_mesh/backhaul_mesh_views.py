@@ -90,9 +90,6 @@ def log(action,request,body_detail):
     file.write(log_string)
     file.close()
     
-    
 
-
-#backhaul_mesh_api_20231203.log
 
     

@@ -34,6 +34,7 @@ def LoginEG(_user,_password):
     if( current_url != driver.current_url):
         return True
     else :
+        return False
 
 if(LoginEG(Username_EG,PassWord_EG))=="pass":
     filename = "input.txt"
