@@ -10,6 +10,7 @@ WORKDIR /$work_path
 #Copy All file in project move to Docker image folder.
 COPY ./Gitlab/api_eg /$work_path
 RUN ls /${work_path}
+RUN pwd
 
 #Run Bash script for apt-get update
 RUN apt-get update
