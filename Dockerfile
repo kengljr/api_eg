@@ -30,5 +30,5 @@ EXPOSE 8000
 
 ENV TZ="Asia/Bangkok"
 
-ENTRYPOINT "python",/${env_work_path}/manage.py,"runserver","0:8000"]
+#ENTRYPOINT ["python",/${env_work_path}/manage.py,"runserver","0:8000"]
 
