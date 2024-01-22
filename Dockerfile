@@ -8,7 +8,7 @@ ENV env_work_path=$work_path
 WORKDIR /API_EG
 
 #Copy All file in project move to Docker image folder.
-COPY Gitlab/api_eg /API_EG
+COPY ./Gitlab/api_eg /API_EG
 RUN ls /API_EG
 RUN pwd
 
