@@ -5,7 +5,7 @@
     "userName": "01014209",
     "language": "en-US",
     "userIp": "10.50.27.220",
-    "user4xSessionId": 27179,
+    "user4xSessionId": 3126,
     "data": {
       "status": 0,
       "instanceNumber": 0,
@@ -44,7 +44,7 @@
         },
         {
           "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.SignalStrength",
-          "value": "-55"
+          "value": "-56"
         },
         {
           "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.SerialNumber",
@@ -76,7 +76,7 @@
         },
         {
           "oid": "InternetGatewayDevice.WANDevice.1.X_TRUE_WANPONInterfaceConfig.TransceiverTemperature",
-          "value": "39"
+          "value": "44"
         },
         {
           "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.ModelName",
@@ -88,7 +88,7 @@
         },
         {
           "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.PHYRate",
-          "value": "585"
+          "value": "650"
         },
         {
           "oid": "InternetGatewayDevice.DeviceInfo.ModelName",
