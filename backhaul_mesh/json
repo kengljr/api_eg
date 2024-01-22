@@ -1,0 +1,109 @@
+{
+  "response": {
+    "isc_dataFormat": "json",
+    "status": "0",
+    "userName": "01014209",
+    "language": "en-US",
+    "userIp": "10.50.27.220",
+    "user4xSessionId": 27179,
+    "data": {
+      "status": 0,
+      "instanceNumber": 0,
+      "oidValues": [
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.MediaType",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.SerialNumber",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.PHYRate",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.SerialNumber",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.SignalStrength",
+          "value": "0"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.MediaType",
+          "value": "IEEE 802.11ac"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.SerialNumber",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.MediaType",
+          "value": ""
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.SignalStrength",
+          "value": "-55"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.SerialNumber",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.MediaType",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.SignalStrength",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.PHYRate",
+          "value": "0"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.ModelName",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.PHYRate",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.ModelName",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.WANDevice.1.X_TRUE_WANPONInterfaceConfig.TransceiverTemperature",
+          "value": "39"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.ModelName",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.SignalStrength",
+          "value": "ErrorCode:3519005"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.PHYRate",
+          "value": "585"
+        },
+        {
+          "oid": "InternetGatewayDevice.DeviceInfo.ModelName",
+          "value": "T623L"
+        },
+        {
+          "oid": "InternetGatewayDevice.DeviceInfo.SoftwareVersion",
+          "value": "V5R021C10S180"
+        },
+        {
+          "oid": "InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.ModelName",
+          "value": "ErrorCode:3519005"
+        }
+      ],
+      "notification": 0
+    }
+  }
+}

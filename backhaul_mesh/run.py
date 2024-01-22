@@ -57,18 +57,23 @@ def LoginEG(_user,_password):
         driver.close()
         return False
 
+def device_check(serial_number):
+    checking = LoginEG(Username_EG,PassWord_EG)
+    if (checking) :
+        print("PASS")
+        f = open("./url_device.txt", "r",encoding="utf8")
+        url_get=f.read().replace("\n","")
+        url_get=url_get.replace("SNXXXXXXXXXX",serial_number)
+        driver.get(url_get)
+        json_text = driver.find_element(By.XPATH,"//body/pre[@style='word-wrap: break-word; white-space: pre-wrap;']").text
+        print(json_text)
+    else :
+        print("NOT PASS")
 
-if (LoginEG(Username_EG,PassWord_EG)) :
-    print("PASS")
-    f = open("./url_device.txt", "r",encoding="utf8")
-    url_get=f.read().replace("\n","")
-    url_get=url_get.replace("SNXXXXXXXXXX","HWTC0E22F3AB")
-    driver.get(url_get)
-    json_text = driver.find_element(By.XPATH,"//body/pre[@style='word-wrap: break-word; white-space: pre-wrap;']").text
-    print(json_text)
-else :
-    print("NOT PASS")
+    end_time=time.time()
+    print(f"time usage : {round(end_time-start_time,2)}sec")
+    driver.close()
 
-end_time=time.time()
-print(f"time usage : {round(end_time-start_time,2)}sec")
-driver.close()
+if (__name__=="__main__"):
+    device_check("HWTC0E22F3AB")
+

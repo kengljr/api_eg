@@ -1,0 +1,5 @@
+timestamp|action|client_ip|path|body_detail
+2024/01/22 08:12:15|request|127.0.0.1|/backhaul_mesh/GETMediaTypebackhaulmesh|{'Mesh_no': 1, 'DSN': 'SCOMXXXXX'}
+2024/01/22 08:12:15|response|127.0.0.1|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh', 'Value': {'Mesh_no': 1, 'DSN': 'SCOMXXXXX'}}
+2024/01/22 08:14:24|request|127.0.0.1|/backhaul_mesh/GETMediaTypebackhaulmesh|{'Mesh_no': 1, 'DSN': 'SCOMXXXXX'}
+2024/01/22 08:14:24|response|127.0.0.1|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh', 'Value': 'SCOMXXXXX'}
