@@ -16,6 +16,7 @@ RUN pwd
 RUN apt-get update
 RUN apt-get install ca-certificates apt-transport-https libnss3
 RUN apt-get install nano vim -y
+RUN apt-get install nginx -y
 
 #Get the google chrome Browser for Linux Server
 RUN wget -nc http://mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-stable/google-chrome-stable_114.0.5735.90-1_amd64.deb
