@@ -8,6 +8,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from datetime import datetime
+from datetime import timedelta
 import pickle
 import time
 import json
@@ -25,7 +26,6 @@ current_time = datetime.strftime(datetime.now(),"%Y%m%d")
 
 Username_EG="01014209"
 PassWord_EG="Mi^mi^12345678901"
-
 driver = webdriver.Chrome(service=service,options=options)
 
 def request_checking (request):
@@ -45,13 +45,8 @@ def request_checking (request):
         response.data=response_msg
         response.status_code=status.HTTP_400_BAD_REQUEST
         return response
-    elif (int(request["Mesh_no"])>4) :
+    elif (int(request["Mesh_no"])>4 or int(request["Mesh_no"])<1) :
         response_msg = {"code":0,"msg":"Error","Value":"MeshNumber not in range"}
-        response.data=response_msg
-        response.status_code=status.HTTP_400_BAD_REQUEST
-        return response
-    elif (request is None ) :
-        response_msg = {"code":0,"msg":"Error","Value":"DSN Not Found"}
         response.data=response_msg
         response.status_code=status.HTTP_400_BAD_REQUEST
         return response
@@ -63,6 +58,14 @@ def request_checking (request):
 def LoginEG(_user,_password):
     #Going to login page
     driver.get('https://10.50.27.136:21180/web/iui/framework/login.html')
+
+    threshold = timedelta(minutes=5) # can also be minutes, seconds, etc.
+    filetime = os.path.getmtime("/API_EG/backhaul_mesh/cookies.pkl") # filename is the path to the local file you are refreshing
+    now = time.time()
+    delta_time = timedelta(seconds=now-filetime)
+    if(delta_time > threshold) :
+        os.remove("/API_EG/backhaul_mesh/cookies.pkl")
+
     if not (os.path.isfile("/API_EG/backhaul_mesh/cookies.pkl")):
         current_url = driver.current_url
 
@@ -104,11 +107,14 @@ def device_check(backhaul_type,mesh_no,serial_number):
         url_get=url_get.replace("SNXXXXXXXXXX",serial_number)
         driver.get(url_get)
         json_text = json.loads(driver.find_element(By.XPATH,"//body/pre[@style='word-wrap: break-word; white-space: pre-wrap;']").text)
-        print(json_text)
-        for member in json_text["response"]["data"]["oidValues"]:
-            if  (backhaul_type in member["oid"]) and (f"Agent.{mesh_no}" in member["oid"]):
-                return member["value"]
-        return json_text["response"]["data"]["oidValues"]
+
+        try :
+            for member in json_text["response"]["data"]["oidValues"]:
+                if  (backhaul_type in member["oid"]) and (f"Agent.{mesh_no}" in member["oid"]):
+                    return member["value"]
+            return json_text["response"]["data"]["oidValues"]
+        except KeyError:
+            return None
     else :
         print("NOT PASS")
     end_time=time.time()
@@ -141,6 +147,9 @@ def get_mediatype_backhaul_mesh(request):
             result = device_check("MediaType",request.data["Mesh_no"],request.data["DSN"])
             response_msg = {"code":0,"msg":"GETMediaTypebackhaulmesh(x)","Value":result}
             status_code = request_result.status_code
+            if(result is None ) :
+                response_msg = {"code":0,"msg":"Error","Value":"DSN Not Found"}
+                status_code=status.HTTP_400_BAD_REQUEST
         else :
             response_msg= request_result.data
             status_code = request_result.status_code
@@ -149,6 +158,7 @@ def get_mediatype_backhaul_mesh(request):
     else :
         log("request",request.method,request,request.data)
         response_msg = {"code":0,"msg":"Error","Value":"Method not allow"}
+        status_code=status.HTTP_400_BAD_REQUEST
         log("response",request.method,request,response_msg)
 
     return Response(response_msg,status_code)
@@ -170,6 +180,9 @@ def get_signal_strength_backhaul_mesh(request):
             result = device_check("SignalStrength",request.data["Mesh_no"],request.data["DSN"])
             response_msg = {"code":0,"msg":"SignalStrengthbackhaulmesh(x)","Value":result}
             status_code = request_result.status_code
+            if(result is None ) :
+                response_msg = {"code":0,"msg":"Error","Value":"DSN Not Found"}
+                status_code=status.HTTP_400_BAD_REQUEST
         else :
             response_msg= request_result.data
             status_code = request_result.status_code
@@ -178,6 +191,7 @@ def get_signal_strength_backhaul_mesh(request):
     else :
         log("request",request.method,request,request.data)
         response_msg = {"code":0,"msg":"Error","Value":"Method not allow"}
+        status_code=status.HTTP_400_BAD_REQUEST
         log("response",request.method,request,response_msg)
 
     return Response(response_msg,status_code)
@@ -198,6 +212,9 @@ def get_phy_rate_backhaul_mesh(request):
             result = device_check("PHYRate",request.data["Mesh_no"],request.data["DSN"])
             response_msg = {"code":0,"msg":"GETPHYRatebackhaulmesh(x)","Value":result}
             status_code = request_result.status_code
+            if(result is None ) :
+                response_msg = {"code":0,"msg":"Error","Value":"DSN Not Found"}
+                status_code=status.HTTP_400_BAD_REQUEST
         else :
             response_msg= request_result.data
             status_code = request_result.status_code
@@ -206,6 +223,7 @@ def get_phy_rate_backhaul_mesh(request):
     else :
         log("request",request.method,request,request.data)
         response_msg = {"code":0,"msg":"Error","Value":"Method not allow"}
+        status_code=status.HTTP_400_BAD_REQUEST
         log("response",request.method,request,response_msg)
 
     return Response(response_msg,status_code)
@@ -225,6 +243,9 @@ def get_serial_number_backhaul_mesh(request):
             result = device_check("SerialNumber",request.data["Mesh_no"],request.data["DSN"])
             response_msg = {"code":0,"msg":"GETSerialNumberbackhaulmesh(x)","Value":result}
             status_code = request_result.status_code
+            if(result is None ) :
+                response_msg = {"code":0,"msg":"Error","Value":"DSN Not Found"}
+                status_code=status.HTTP_400_BAD_REQUEST
         else :
             response_msg= request_result.data
             status_code = request_result.status_code
@@ -233,6 +254,7 @@ def get_serial_number_backhaul_mesh(request):
     else :
         log("request",request.method,request,request.data)
         response_msg = {"code":0,"msg":"Error","Value":"Method not allow"}
+        status_code=status.HTTP_400_BAD_REQUEST
         log("response",request.method,request,response_msg)
 
     return Response(response_msg,status_code)
