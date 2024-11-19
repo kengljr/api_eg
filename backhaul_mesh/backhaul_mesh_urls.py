@@ -12,7 +12,7 @@ urlpatterns = [
     path('GETSignalStrengthbackhaulmesh',backhaul_mesh_views.get_signal_strength_backhaul_mesh),
     path('GETPHYRatebackhaulmesh',backhaul_mesh_views.get_phy_rate_backhaul_mesh),
     path('GETSerialNumberbackhaulmesh',backhaul_mesh_views.get_serial_number_backhaul_mesh),
-    path('GETLog',backhaul_mesh_views.get_log),
+    path(f"GETLog/<int:time>",backhaul_mesh_views.get_log),
 
 
 ]

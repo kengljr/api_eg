@@ -1,3 +1,3 @@
-from django.test import TestCase
-
-# Create your tests here.
+urls = open("url.txt","r")
+print(urls.read())
+input('Press ENTER to exit')

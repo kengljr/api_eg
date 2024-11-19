@@ -1,0 +1,426 @@
+timestamp|action|request_method|client_ip|path|body_detail
+2024/01/26 03:06:22|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:06:22|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:06:50|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:06:50|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:07:02|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:07:02|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:07:25|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:07:25|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:21:14|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:21:14|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:24:22|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:24:22|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:25:46|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'{"Mesh_no":"1"}': ['']}>
+2024/01/26 03:25:46|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:26:47|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'{"Mesh_no":"1"}': ['']}>
+2024/01/26 03:26:47|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:28:16|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'{"Mesh_no":"1"': ['']}>
+2024/01/26 03:28:16|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:28:36|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'{"Mesh_no":"1" "DSN":"HWTC18F346"}': ['']}>
+2024/01/26 03:28:36|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:29:11|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'{"Mesh_no":"1","DSN":"HWTC18F346"}': ['']}>
+2024/01/26 03:29:11|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:29:19|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:29:19|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:29:20|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:29:20|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:29:39|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:29:39|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:29:39|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:29:39|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:32:02|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:32:02|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:33:12|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:33:12|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:35:38|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:35:38|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:36:07|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:36:07|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:36:46|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{}
+2024/01/26 03:36:46|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 03:47:10|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC18F346']}>
+2024/01/26 03:47:10|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:47:51|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC18F346']}>
+2024/01/26 03:47:51|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:48:07|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC18F346']}>
+2024/01/26 03:48:07|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:48:11|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC18F346']}>
+2024/01/26 03:48:11|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:48:30|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC18F346']}>
+2024/01/26 03:48:30|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:48:32|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC18F346']}>
+2024/01/26 03:48:32|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:49:01|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC18F346']}>
+2024/01/26 03:49:01|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:49:03|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC18F346']}>
+2024/01/26 03:49:03|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 03:49:53|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC18F346']}>
+2024/01/26 03:49:55|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 03:51:33|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0170790A']}>
+2024/01/26 03:51:35|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 03:52:22|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0170790A']}>
+2024/01/26 03:52:24|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 03:52:44|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0170790A']}>
+2024/01/26 03:52:46|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 03:54:42|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 03:54:44|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 03:55:29|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 03:55:31|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 03:55:52|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 03:55:53|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 04:00:48|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 04:00:48|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 04:00:53|request|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 04:00:53|response|POST|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Method not allow'}
+2024/01/26 04:01:03|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 04:01:05|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 04:01:53|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 04:01:54|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 04:05:04|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 04:05:06|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 04:05:39|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 04:05:41|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 04:08:55|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 04:08:57|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 04:09:10|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH0158446E']}>
+2024/01/26 04:09:11|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 04:09:59|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:10:01|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 04:20:37|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:20:39|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 04:23:10|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:23:15|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 04:30:17|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:30:21|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 04:34:04|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{}
+2024/01/26 04:34:04|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 04:39:16|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:39:20|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 04:39:54|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:39:58|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 04:41:29|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:41:33|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 04:55:26|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:55:30|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 04:55:30|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:55:34|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': 'IEEE 802.11ax'}
+2024/01/26 04:55:34|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:55:38|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '816'}
+2024/01/26 04:55:38|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:55:42|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 04:57:29|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:57:33|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 04:57:33|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:57:37|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': 'IEEE 802.11ax'}
+2024/01/26 04:57:37|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:57:41|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '864'}
+2024/01/26 04:57:41|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:57:46|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 04:58:48|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:58:53|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 04:58:53|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:58:57|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': 'IEEE 802.11ax'}
+2024/01/26 04:58:57|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:59:01|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '816'}
+2024/01/26 04:59:01|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:59:05|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 04:59:18|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['0'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:59:22|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': [{'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.MediaType', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.PHYRate', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.SignalStrength', 'value': '0'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.MediaType', 'value': 'IEEE 802.11ax'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.MediaType', 'value': ''}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.SignalStrength', 'value': '-59'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.MediaType', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.SignalStrength', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.PHYRate', 'value': '0'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.PHYRate', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.WANDevice.1.X_TRUE_WANPONInterfaceConfig.TransceiverTemperature', 'value': '55'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.SignalStrength', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.PHYRate', 'value': '816'}, {'oid': 'InternetGatewayDevice.DeviceInfo.ModelName', 'value': 'T623'}, {'oid': 'InternetGatewayDevice.DeviceInfo.SoftwareVersion', 'value': 'V5R021C10S185'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.ModelName', 'value': 'ErrorCode:3519005'}]}
+2024/01/26 04:59:22|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['0'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:59:26|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': [{'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.MediaType', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.PHYRate', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.SignalStrength', 'value': '0'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.MediaType', 'value': 'IEEE 802.11ax'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.MediaType', 'value': ''}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.SignalStrength', 'value': '-59'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.MediaType', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.SignalStrength', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.PHYRate', 'value': '0'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.PHYRate', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.WANDevice.1.X_TRUE_WANPONInterfaceConfig.TransceiverTemperature', 'value': '55'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.SignalStrength', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.PHYRate', 'value': '816'}, {'oid': 'InternetGatewayDevice.DeviceInfo.ModelName', 'value': 'T623'}, {'oid': 'InternetGatewayDevice.DeviceInfo.SoftwareVersion', 'value': 'V5R021C10S185'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.ModelName', 'value': 'ErrorCode:3519005'}]}
+2024/01/26 04:59:26|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['0'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:59:30|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': [{'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.MediaType', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.PHYRate', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.SignalStrength', 'value': '0'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.MediaType', 'value': 'IEEE 802.11ax'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.MediaType', 'value': ''}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.SignalStrength', 'value': '-59'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.MediaType', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.SignalStrength', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.PHYRate', 'value': '0'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.PHYRate', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.WANDevice.1.X_TRUE_WANPONInterfaceConfig.TransceiverTemperature', 'value': '55'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.SignalStrength', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.PHYRate', 'value': '816'}, {'oid': 'InternetGatewayDevice.DeviceInfo.ModelName', 'value': 'T623'}, {'oid': 'InternetGatewayDevice.DeviceInfo.SoftwareVersion', 'value': 'V5R021C10S185'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.ModelName', 'value': 'ErrorCode:3519005'}]}
+2024/01/26 04:59:30|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['0'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 04:59:34|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': [{'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.MediaType', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.PHYRate', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.SignalStrength', 'value': '0'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.MediaType', 'value': 'IEEE 802.11ax'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.MediaType', 'value': ''}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.SignalStrength', 'value': '-59'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.SerialNumber', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.MediaType', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.SignalStrength', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.Backhaul.PHYRate', 'value': '0'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.Backhaul.PHYRate', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.1.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.WANDevice.1.X_TRUE_WANPONInterfaceConfig.TransceiverTemperature', 'value': '55'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.4.ModelName', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.Backhaul.SignalStrength', 'value': 'ErrorCode:3519005'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.2.Backhaul.PHYRate', 'value': '816'}, {'oid': 'InternetGatewayDevice.DeviceInfo.ModelName', 'value': 'T623'}, {'oid': 'InternetGatewayDevice.DeviceInfo.SoftwareVersion', 'value': 'V5R021C10S185'}, {'oid': 'InternetGatewayDevice.X_TRUE_EasyMesh.NetworkTopology.Agent.3.ModelName', 'value': 'ErrorCode:3519005'}]}
+2024/01/26 05:01:37|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['5'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:01:37|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 05:01:37|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['5'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:01:37|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 05:01:37|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['5'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:01:37|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 05:01:37|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['5'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:01:37|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 05:10:27|request|GET|172.20.100.49|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346'}
+2024/01/26 05:10:32|request|GET|172.20.100.49|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346'}
+2024/01/26 05:10:47|request|GET|172.20.100.49|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346'}
+2024/01/26 05:10:56|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346'}
+2024/01/26 05:11:48|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346'}
+2024/01/26 05:11:54|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346'}
+2024/01/26 05:12:32|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346'}
+2024/01/26 05:12:44|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{}
+2024/01/26 05:12:44|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Request Body empty'}
+2024/01/26 05:12:53|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346'}
+2024/01/26 05:13:10|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346'}
+2024/01/26 05:13:17|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346'}
+2024/01/26 05:13:30|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346'}
+2024/01/26 05:14:21|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346'}
+2024/01/26 05:15:41|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346'}
+2024/01/26 05:15:53|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346'}
+2024/01/26 05:16:11|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 05:16:13|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 05:16:13|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:16:17|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 05:45:23|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:45:25|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:45:25|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:45:26|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:45:26|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:45:28|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:45:28|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:45:30|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:50:24|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:50:26|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:50:26|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:50:28|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:50:28|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:50:30|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:50:30|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:50:31|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:51:10|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:51:12|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:51:12|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:51:13|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:51:14|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:51:15|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:51:15|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:51:17|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:52:05|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:52:06|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:52:06|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:52:08|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:52:08|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:52:10|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:52:10|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:52:12|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:55:07|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:55:09|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:55:09|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:55:11|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:55:11|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:55:13|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 05:55:13|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 05:55:14|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 06:14:50|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 06:14:52|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 06:14:52|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 06:14:54|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 06:14:54|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 06:14:56|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 06:14:56|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 06:14:57|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 06:25:03|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '0', 'DSN': 'HWTC18F346AA'}
+2024/01/26 06:25:03|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 06:25:12|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '-4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 06:25:12|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 06:25:16|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 06:25:18|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 06:25:20|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 06:25:22|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 13:27:55|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 13:27:57|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 13:28:52|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 13:28:56|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:29:21|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:29:25|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:29:25|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:29:29|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:29:29|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:29:33|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:29:33|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:29:37|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:29:37|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:29:41|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:29:41|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:29:45|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:29:45|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:29:49|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:29:49|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:29:54|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:29:54|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:29:58|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:29:58|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:30:02|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:30:02|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:30:06|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:30:06|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:30:10|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:30:10|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:30:14|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:30:14|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:30:18|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:30:18|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:30:22|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:30:22|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:30:27|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:31:47|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:31:51|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:31:51|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:31:55|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:31:55|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:31:59|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:31:59|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:04|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:32:04|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:08|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:32:08|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:12|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:32:12|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:16|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:32:16|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:20|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:32:20|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:24|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:32:24|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:28|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:32:29|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:33|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:32:33|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:37|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:32:37|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:41|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:32:41|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:45|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:32:45|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:49|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:32:49|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:32:53|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:33:31|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:33:35|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:33:35|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:33:39|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:33:39|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:33:43|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:33:43|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:33:47|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:33:47|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:33:51|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:33:52|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:33:56|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:33:56|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:34:00|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:36:48|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['0'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:36:48|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 13:36:48|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['0'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:36:48|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 13:36:48|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['0'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:36:48|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 13:36:49|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['0'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:36:49|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 13:36:49|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:36:53|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:36:53|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:36:57|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:36:57|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:37:01|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:37:01|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:37:05|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:37:05|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:37:09|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 13:37:09|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:37:14|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': 'IEEE 802.11ax'}
+2024/01/26 13:37:14|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:37:18|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '864'}
+2024/01/26 13:38:17|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:38:21|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:38:22|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:38:25|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:38:26|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:38:30|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:38:30|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:38:34|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:39:38|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:39:42|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:39:42|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:39:46|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': ''}
+2024/01/26 13:39:46|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:39:50|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '0'}
+2024/01/26 13:39:50|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:39:54|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:39:55|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:39:58|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '-59'}
+2024/01/26 13:39:59|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:03|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': 'IEEE 802.11ax'}
+2024/01/26 13:40:03|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:07|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': '864'}
+2024/01/26 13:40:07|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:11|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:40:11|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:15|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:40:15|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:19|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:40:19|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:23|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:40:23|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:27|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:40:27|request|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:32|response|GET|172.20.100.35|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:40:32|request|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:36|response|GET|172.20.100.35|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'GETMediaTypebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:40:36|request|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:40|response|GET|172.20.100.35|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:40:40|request|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC06CE4CAA']}>
+2024/01/26 13:40:44|response|GET|172.20.100.35|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'GETSerialNumberbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 13:57:01|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 13:58:58|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 13:59:02|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 14:22:38|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 14:22:42|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': '0'}
+2024/01/26 14:22:47|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '41', 'DSN': 'HWTC18F346AA'}
+2024/01/26 14:22:47|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 14:22:50|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 14:22:54|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 14:22:58|request|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346AA'}
+2024/01/26 14:23:02|response|GET|172.20.100.49|/backhaul_mesh/GETSignalStrengthbackhaulmesh|{'code': 0, 'msg': 'SignalStrengthbackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 14:23:11|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346AA'}
+2024/01/26 14:23:15|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 14:46:35|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346FA'}
+2024/01/26 14:46:40|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346AA'}
+2024/01/26 14:46:44|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 14:46:51|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346fdsA'}
+2024/01/26 14:46:58|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346AA'}
+2024/01/26 14:47:02|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 14:47:04|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 14:47:08|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 14:47:10|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F3462A'}
+2024/01/26 14:47:15|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 14:47:19|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 14:48:26|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F34dAA'}
+2024/01/26 14:49:21|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F34dAA'}
+2024/01/26 14:50:56|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F34dAA'}
+2024/01/26 14:51:52|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F34dAA'}
+2024/01/26 14:54:21|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F34dAA'}
+2024/01/26 15:11:52|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F34dAA'}
+2024/01/26 15:11:54|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 15:12:02|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F3462A'}
+2024/01/26 15:12:05|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 15:12:09|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 15:12:14|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 15:12:58|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 15:13:02|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 15:13:04|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346AA'}
+2024/01/26 15:13:08|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 15:13:10|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'fdsafsHWTC18F346AA'}
+2024/01/26 15:13:12|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 15:13:17|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346AA'}
+2024/01/26 15:13:21|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 16:04:00|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '2', 'DSN': 'HWTC18F346AA'}
+2024/01/26 16:04:04|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 16:04:11|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '-1', 'DSN': 'HWTC18F346AA'}
+2024/01/26 16:04:11|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 16:04:15|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '0', 'DSN': 'HWTC18F346AA'}
+2024/01/26 16:04:15|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 16:04:20|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '0', 'DSN': ''}
+2024/01/26 16:04:20|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'Missing DSN'}
+2024/01/26 16:04:24|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '0', 'DSN': 'fdsafdsfdsfdsfasd'}
+2024/01/26 16:04:24|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'MeshNumber not in range'}
+2024/01/26 16:04:30|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 16:04:35|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 21:23:59|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 21:24:04|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 21:24:09|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 21:24:13|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}
+2024/01/26 21:24:16|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HdsafWTC18F346AA'}
+2024/01/26 21:24:19|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'DSN Not Found'}
+2024/01/26 21:46:15|request|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'Mesh_no': '4', 'DSN': 'HWTC18F346AA'}
+2024/01/26 21:46:19|response|GET|172.20.100.49|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'GETPHYRatebackhaulmesh(x)', 'Value': 'ErrorCode:3519005'}

@@ -1,0 +1,1235 @@
+timestamp|action|request_method|client_ip|path|body_detail
+2024/02/14 10:18:05|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:05|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:06|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:06|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:06|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:06|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:06|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:06|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:06|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:06|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:06|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:06|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:06|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:06|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:06|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:06|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:06|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:06|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:06|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:06|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:07|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:07|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:08|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:08|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:08|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:08|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:08|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:08|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:08|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC2CC98AA9']}>
+2024/02/14 10:18:08|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:08|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:08|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:08|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:08|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:08|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:08|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:08|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:08|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:08|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:08|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCFA5DF3A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:09|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:09|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:10|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:10|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:10|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:10|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:10|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:10|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:10|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:10|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:10|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:10|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:10|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:10|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:10|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:10|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:10|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:10|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:10|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCFA5DC8A8']}>
+2024/02/14 10:18:10|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:11|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:11|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:11|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:11|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:11|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:11|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:11|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:11|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:11|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:11|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:11|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:11|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:11|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:11|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:11|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:11|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:11|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:11|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132000057085']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:12|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:12|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:13|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:13|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:13|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:13|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:13|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:13|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:13|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:13|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:13|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4240A3DC']}>
+2024/02/14 10:18:13|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:13|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:13|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:13|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:13|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:13|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:13|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:13|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:13|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC06247DA9']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:14|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:14|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:15|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:15|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:15|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:15|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:15|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:15|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:15|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:15|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:15|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:15|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:15|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:15|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:15|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:15|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:15|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:15|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:15|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:15|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC8211F5AB']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:16|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:16|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:17|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:17|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:17|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:17|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:17|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC118BADA8']}>
+2024/02/14 10:18:17|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:17|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:17|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:17|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:17|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:17|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:17|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:17|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:17|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:17|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:17|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:17|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:17|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:18|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:18|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:18|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:18|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:18|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:18|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:18|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:18|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:18|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:18|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:18|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4240E5F9']}>
+2024/02/14 10:18:18|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:18|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:18|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:18|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:18|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:18|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:18|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:19|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:19|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:19|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:19|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:19|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:19|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:19|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:19|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:19|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:19|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:19|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:19|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:19|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:19|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:19|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:19|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:19|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM42412084']}>
+2024/02/14 10:18:19|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:20|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:20|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:21|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:21|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:21|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132100042675']}>
+2024/02/14 10:18:21|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:21|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:21|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:21|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:21|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:21|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:21|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:21|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:21|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:21|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:21|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:21|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:21|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:21|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:21|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062E2AA9']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:22|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:22|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC820FDAAB']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:23|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:23|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:24|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:24|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:24|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:24|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:24|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:24|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:24|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:24|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:24|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:24|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:24|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:24|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:24|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:24|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:24|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:24|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:24|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC0F0B8EAA']}>
+2024/02/14 10:18:24|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:25|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:25|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:25|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:25|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:25|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:25|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:25|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:25|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:25|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:25|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:25|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:25|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:25|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:25|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:25|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:25|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:25|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:25|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:26|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:26|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:26|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:26|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:26|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH16BF462E']}>
+2024/02/14 10:18:26|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:26|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:26|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:26|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:26|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:26|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:26|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:26|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:26|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:26|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:26|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:26|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:26|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH065BA77E']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:27|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:27|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:28|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:28|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:28|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:28|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:28|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:28|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:28|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:28|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:28|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:28|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:28|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:28|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:28|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:28|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:28|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM42400E05']}>
+2024/02/14 10:18:28|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:28|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:28|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:29|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:29|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:30|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH061D76A8']}>
+2024/02/14 10:18:30|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:30|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:30|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:30|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:30|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:30|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:30|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:30|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:30|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:30|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:30|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:30|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:30|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:30|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:30|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:30|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:30|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC2323E4AA']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:31|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:31|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:32|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:32|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:32|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:32|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:32|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:32|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:32|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:32|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:32|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:32|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:32|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC11ADEDA8']}>
+2024/02/14 10:18:32|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:32|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:32|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:32|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:32|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:32|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:32|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:33|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:33|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:33|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:33|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:33|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:33|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:33|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:33|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:33|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:33|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:33|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:33|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:33|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:33|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:33|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:33|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:33|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC01A99FA9']}>
+2024/02/14 10:18:33|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:34|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:34|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:34|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:34|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:34|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:34|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:34|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:34|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:34|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:34|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:34|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:34|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:34|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:34|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:34|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:34|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:34|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:34|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:35|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:35|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:35|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:35|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:35|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062A48A9']}>
+2024/02/14 10:18:35|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:35|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:35|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:35|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:35|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:35|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:35|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:35|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:35|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:35|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:35|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:35|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:35|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC118BC2A8']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:36|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:36|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:37|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:37|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:37|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:37|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:37|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:37|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:37|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:37|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:37|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:37|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:37|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:37|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:37|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:37|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:37|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062EACA9']}>
+2024/02/14 10:18:37|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:37|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:37|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:38|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:38|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:39|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4240CA48']}>
+2024/02/14 10:18:39|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:39|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:39|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:39|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:39|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:39|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:39|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:39|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:39|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:39|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:39|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:39|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:39|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:39|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:39|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:39|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:39|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:40|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:40|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:40|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:40|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:40|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:40|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:40|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH162EE93A']}>
+2024/02/14 10:18:40|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:40|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:40|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:40|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:40|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:40|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:40|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:40|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:40|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:40|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:40|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132000008066']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:41|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:41|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:42|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:42|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:42|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:42|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:42|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:42|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:42|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:42|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:42|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:42|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:42|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:42|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:42|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:42|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:42|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:42|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:42|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC2CC8C7A9']}>
+2024/02/14 10:18:42|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:43|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:43|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:43|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:43|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:43|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:43|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:43|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:43|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:43|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:43|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:43|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:43|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:43|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:43|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:43|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:43|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:43|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:43|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC019218A9']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:44|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:44|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:45|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:45|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:45|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:45|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:45|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:45|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:45|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:45|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:45|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCFA695AA8']}>
+2024/02/14 10:18:45|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:45|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:45|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:45|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:45|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:45|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:45|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH16E17CCA']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:46|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:46|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:47|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:47|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:47|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:47|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:47|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:47|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:47|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:47|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:47|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:47|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:47|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:47|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:47|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:47|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:47|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:47|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:47|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:47|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['131313132100193577']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:48|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:48|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:49|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:49|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:49|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:49|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:49|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:49|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:49|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCF9ED32AB']}>
+2024/02/14 10:18:49|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:49|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:49|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:49|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:49|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:49|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:49|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:49|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:49|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:49|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:49|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH162A7FAA']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:50|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:50|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:51|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:51|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:51|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:51|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:51|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:51|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:51|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:51|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:51|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:51|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:51|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:51|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:51|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:51|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:51|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:51|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:51|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH1631CF1A']}>
+2024/02/14 10:18:51|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:52|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:52|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:52|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:52|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:52|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:52|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:52|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:52|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:52|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:52|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:52|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:52|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:52|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:52|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:52|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:52|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:52|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:52|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:53|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:53|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:53|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:53|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:53|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7D0764AB']}>
+2024/02/14 10:18:53|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:53|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:53|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:53|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:53|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:53|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:53|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:53|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:53|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:53|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:53|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:53|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:53|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM424078BE']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:54|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:54|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:55|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:55|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:55|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:55|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:55|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:55|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:55|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:55|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:55|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:55|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:55|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:55|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:55|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:55|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:55|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM42407125']}>
+2024/02/14 10:18:55|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:55|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:55|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:56|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:56|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:57|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['T3TH16BF83CE']}>
+2024/02/14 10:18:57|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:57|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:57|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:57|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:57|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:57|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:57|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:57|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:57|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:57|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:57|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:57|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:57|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:57|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:57|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:57|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:57|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['SCOM4241276C']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:58|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:58|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:59|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:59|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:59|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:59|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:59|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:59|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:59|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:59|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:59|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:59|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:59|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062DC4A9']}>
+2024/02/14 10:18:59|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:59|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:18:59|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:59|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:18:59|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:18:59|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:18:59|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:00|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:19:00|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:00|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:19:00|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:00|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:19:00|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:00|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:19:00|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:00|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:19:00|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:00|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:19:00|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:00|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:19:00|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:00|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:19:00|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:00|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC062AA9A9']}>
+2024/02/14 10:19:00|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:01|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:01|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:01|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:01|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:01|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:01|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:01|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:01|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:01|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:01|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:01|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:01|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:01|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:01|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:01|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:01|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:01|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:01|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['ZTEEH8TN6V01235']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:02|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:02|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:03|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:03|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:03|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:03|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:03|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:03|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:03|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:03|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:03|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7D076AAB']}>
+2024/02/14 10:19:03|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:03|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:03|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:03|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:03|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:03|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:03|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:03|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:03|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTCF9EF2EAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:04|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:04|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:05|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7CFCFEAB']}>
+2024/02/14 10:19:05|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:06|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:06|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:06|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:06|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:06|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:06|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:06|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:06|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:06|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:06|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:06|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:06|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:06|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:06|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:06|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:06|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:06|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:06|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:07|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:07|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:07|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:07|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:07|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC7CF6F6AB']}>
+2024/02/14 10:19:07|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:07|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:07|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:07|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:07|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:07|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:07|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:07|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:07|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:07|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:07|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:07|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:07|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC11A697A8']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:08|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:08|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:09|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:09|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:09|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:09|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:09|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:09|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:09|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:09|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:09|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:09|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:09|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:09|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:09|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:09|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:09|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC0EFD60AA']}>
+2024/02/14 10:19:09|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:09|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:09|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:10|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:10|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:10|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:10|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:10|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:10|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:10|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:10|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:10|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:10|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:10|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:10|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:10|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:10|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:10|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['3'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:10|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:10|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:10|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:11|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:11|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:11|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['4'], 'DSN': ['HWTC061C3CA9']}>
+2024/02/14 10:19:11|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:11|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2CCF14A9']}>
+2024/02/14 10:19:11|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:11|request|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2CCF14A9']}>
+2024/02/14 10:19:11|response|GET|172.23.178.128|/backhaul_mesh/GETPHYRatebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:11|request|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC2CCF14A9']}>
+2024/02/14 10:19:11|response|GET|172.23.178.128|/backhaul_mesh/GETSerialNumberbackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 10:19:11|request|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|<QueryDict: {'Mesh_no': ['2'], 'DSN': ['HWTC2CCF14A9']}>
+2024/02/14 10:19:11|response|GET|172.23.178.128|/backhaul_mesh/GETMediaTypebackhaulmesh|{'code': 0, 'msg': 'Error', 'Value': 'You are not allow to access this.'}
+2024/02/14 13:09:59|request|GET|172.23.178.128|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0EFC94AA']}>
+2024/02/14 13:16:42|request|GET|172.23.178.128|/backhaul_mesh/GETSignalStrengthbackhaulmesh|<QueryDict: {'Mesh_no': ['1'], 'DSN': ['HWTC0EFC94AA']}>
